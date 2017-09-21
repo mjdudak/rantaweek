@@ -1,0 +1,23 @@
+---
+id: 1987
+title: 'Hollande&#8217;s Unachievable Social Justice For France'
+date: 2012-05-07T20:16:32+00:00
+author: mjdudak
+layout: post
+guid: http://rantaweek.com/?p=1987
+permalink: /?p=1987
+categories:
+  - Economy
+  - International
+tags:
+  - eurozone
+  - france
+  - hollande
+---
+Yesterday, France held their second round of presidential elections. As [previously predicted](http://rantaweek.com/cutting-the-crust-leading-to-the-french-presidential-runoff-april-22-2012/ "Cutting the Crust: Leading to the French Presidential Runoff- April 22, 2012"), the Socialist candidate, Francois Hollande, won and is now the president-elect. In our aforementioned article,  I primarily discussed the impact of Hollande&#8217;s policies to French business. To summarize, Hollande will scare away investors with his anti-business views. The primary cause of this is that instead of focusing on growth or reform, Hollande focuses on social justice. This is a bit forgivable, it worked fairly effectively in FDR&#8217;s New Deal and LBJ&#8217;s Great Society. Yet FDR also reformed the system, and LBJ did not need to reform the system. The economic machine that Hollande inherits is focused around government spending, and running a huge government deficit. Over half of France&#8217;s GDP is the state itself. While this may have worked for many years, in today&#8217;s Europe, it cannot survive. In Europe, the largest economic issue is obviously the [Euro Debt Crisis](http://rantaweek.com/eurozone-debt-crisis-2012/ "Eurozone Debt Crisis – April 18, 2012"), yet Hollande seems to mainly be ignoring it. And therein lies another one of Hollande&#8217;s big flaws: his policies break up the coherency of EU policies.
+
+In the Eurozone, Germany and France hold the biggest economies, as well as the ones least touched by the Debt Crisis, meaning that they have primarily led the way to get out of the crisis. And leading this charge has been the political couple of Merkozy; French President Nicolas Sarkozy and German Chancellor Angela Merkel. Merkozy has advocated primarily for austerity, cutting spending and rasing taxes, in order to get the governments back on their feet. From there, the governments can lead the rest of the economy to get back on its feet. At the beginning, many Europeans were hesitant to support austerity, but now most have realized its necessity. Yet, in addition to austerity, Merkozy has largely advocated for financial reform, in banking, business and government spending. For the most part, these tactics seemed as if they would eventually work the Eurozone out of crisis.
+
+But now, there is a new guy in town. And I am sorry, but Merllande or Herkel are not nearly as catchy. Additionally, their actual views on economics are so drastically different. Hollande proposes a certain level of austerity, mainly tax hikes and very little spending cuts, while Merkel advocates for a mixture of both, primarily spending cuts. Also, Hollande proposes very little reform. He calls simply for tax increases and nothing else. His views may reignite the revolt against austerity that was seen at the beginning of the debt crisis. Because the austerity has since been smoothed and just accepted, very few bother to mess with it, but Hollande seems ready to do so. This result could be deadly for Eurozone unity. Talks of breaking up the Eurozone have been going around since the beginning of the debt crisis as well, but the verdict has mostly been that doing so would hurt more than it could help. But the level of disagreement that will likely arise between Hollande and Merkel could reignite tensions and force this topic to once again come to the forefront of Eurozone politics. In the current economic climate of the Eurozone, disunity spells doom for all. Even though France and Germany may be doing well individually, one wrong move and they both could still lose prosperity. This wrong move could likely be a Eurozone breakup.
+
+So while Francois Hollande&#8217;s intentions are noble, no one can dislike his ideals of social justice, in the economy he has to deal with, they must be put off until the Eurozone is brought back from the verge of collapse. Hollande&#8217;s positions are admirable and bold, but the French economy and the Eurozone economy are simply not ready for them to be implemented. France is already too flamboyant in their spending, Hollande does not need to make them any more so. Doing so would only lead to Eurozone disunity and a bigger deficit, both of which could push France further in their downward spiral.

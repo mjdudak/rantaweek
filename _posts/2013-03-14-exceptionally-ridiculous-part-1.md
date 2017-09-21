@@ -1,0 +1,28 @@
+---
+id: 5147
+title: 'Exceptionally Ridiculous &#8211; Part 1'
+date: 2013-03-14T20:03:33+00:00
+author: Tyler Miksanek
+layout: post
+guid: http://rantaweek.com/?p=5147
+permalink: /?p=5147
+pdrp_attributionLocation:
+  - caption
+categories:
+  - International
+---
+_In a multi-part article, RantAWeek editor Tyler Miksanek explains why the doctrine of American exceptionalism ultimately hurts American foreign policy._
+
+America is in love with itself.  The crux of this national narcissism is written into the message of &#8216;America, the Beautiful&#8217;, a song which triumphantly proclaims &#8220;America! America! God shed His Grace on thee&#8221;.  While citizens of other nations also have national pride, Americans have taken their nationalism to a whole new level, even claiming divine intervention as being the source of the country&#8217;s prosperity.  However, the idea of American exceptionalism transcends domestic boundaries, and political journalist Glen Greenwald explains that &#8220;this nationalistic prerogative, is, far and away, the primary objective of America&#8217;s foreign policy community&#8221; (Greenwald).  Many of our nation&#8217;s leaders and policymakers use American exceptionalism as a rationale for intervention in world affairs, giving the United States the role of &#8216;world policeman&#8217;.  Unfortunately, many of the United States&#8217; recent interventions, such as the invasions of Iraq and Afghanistan, demonstrate that the pursuit of American exceptionalism in world affairs might not be as beneficial to the nation as many Americans think.  The premise of American exceptionalism in regard to America&#8217;s place in the world is not only misguided, but also creates hostility that is ultimately detrimental to our foreign policy goals.
+
+American exceptionalism has played a crucial role in American foreign policy, often creating a justification for American involvement overseas.  America views international order as a national duty, and as the Iraq invasion demonstrated, America has no qualms about intervening unilaterally.  In just the last decade, America has intervened not only in Iraq and Afghanistan but also in Haiti, Pakistan, Somalia, Syria, Yemen and Libya.  However,  America does not simply become involved in the affairs of other nations.  It also stays involved, maintaining a presence long after the original conflict has subsided.  After all, the Korean War ended sixty years ago, but the U.S. still maintains a force of almost 30,000 troops in South Korea.  All this interventionism showcases the belief that American involvement is a crucial component of global security.  Ex-Defense Secretary Leon Panetta expressed this view on _Meet the Press_ when he explained, &#8220;We have the most powerful military force on the face of the Earth right now.  It is important in terms of providing stability and peace in the world&#8221; (&#8220;February&#8221;).  However, America&#8217;s exceptionally large military does not come cheap, meaning that America is only able to pursue interventionist policies by dramatically outspending other nations.
+
+It is logical to assume that if America is spending an unparalleled amount of money on its military, then the military should successfully support the nation&#8217;s foreign policy goals.  However, the drone program in Pakistan, both expensive and controversial, shows that this assumption is not the reality.  The United States has carried out more than 300 drone strikes in Pakistan over the last ten years, but Pakistan remains firm in its belief that the U.S. lacks any right to carry out drone strikes within their borders.  Retaliating to what they consider American aggression, Pakistani leaders have called the U.S. drone program both a violation of Pakistan&#8217;s sovereignty and illegal.  But following exceptionalist ideology, President Obama has ignored these protests in favor of U.S. involvement, believing American counterterrorism interests should not be sacrificed to placate the Pakistani government.  The _Economist_ points out that while Obama has tried to defend the legality of his drone programs, he has made sure to avoid the mention of &#8220;a principle that some lawyers regard as indispensible: the consent of the country where the attack is to take place&#8221; (&#8220;Unmanned&#8221;).  America&#8217;s blatant disregard for Pakistan&#8217;s opinion has caused anti-American sentiments in Pakistan, often sparking negative consequences for U.S. foreign policy.  In 2011, these strained tensions led the Pakistani government to close a vital supply route for American troops into Afghanistan.  Without this crucial route, America&#8217;s counterterrorism efforts in the Middle East were greatly hindered.  In order to more successfully combat terrorism, the United States should be developing strategic partnerships with countries like Pakistan where terrorism often occurs.  However, by following the doctrine of exceptionalism and refusing to cooperate, the United States ignores the potential for valuable relationships and makes enemies instead of friends.
+
+_Want to continue? &#8211; see [part 2](http://rantaweek.com/exceptionally-ridiculous-part-2/ "Exceptionally Ridiculous – Part 2")._
+
+Greenwald, Glenn. &#8220;The Premises and Purposes of American Exceptionalism.&#8221; _The Guardian_. Guardian News and Media Limited, 18 Feb. 2013. Web. 19 Feb. 2013.
+
+&#8220;Meet the Press.&#8221; _Meet the Press_. NBC. 3 Feb. 2013. _Nbcnews.com_. National Broadcasting Corporation, 3 Feb. 2013. Web. 14 Feb. 2013. Transcript.
+
+&#8220;Unmanned Aerial Vehicles &#8211; Death From Afar.&#8221; _The Economist_. The Economist Newspaper Limited, 3 Nov. 2012. Web. 24 Feb. 2013.

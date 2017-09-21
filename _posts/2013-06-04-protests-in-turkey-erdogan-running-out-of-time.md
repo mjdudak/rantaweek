@@ -1,0 +1,26 @@
+---
+id: 5217
+title: 'Protests in Turkey: Erdogan Running Out of Time'
+date: 2013-06-04T20:30:32+00:00
+author: mjdudak
+layout: post
+guid: http://rantaweek.com/?p=5217
+permalink: /?p=5217
+pdrp_attributionLocation:
+  - caption
+categories:
+  - International
+tags:
+  - erdogan
+  - protests
+  - turkey
+---
+Turkey has long been upheld as the bastion of things actually working in the Middle East. The country has managed to strike out a balance of secularism and Islamism. They have a secular government that is influenced by Islamist ideas, without being fully controlled by them. For this reason, much of the Western world has looked towards Turkey to act as a vital link with the Middle East. Sure, the Western world still has minor problems with Turkey&#8217;s insistence that it did not commit genocide against the Armenians, and there is bad blood that still exists between Greece and Turkey over Cyprus, but overall, Turkey is generally liked by the Western world. Not liked to the point where the EU is actually willing to admit Turkey into it, but liked enough that they at least deal with Turkey fairly regularly. The US is one of the exceptions, largely because of the clashes between Turkey and Israel. Point is, until recently, Turkey seemed to be stable and a perfect blend of Western and Middle Eastern governance. However, that may  now be changing.
+
+Last week, a group of around 50 protesters peacefully assembled in Istanbul&#8217;s Gezi Park to protest the destruction of the park. The destruction was stopped, but only temporarily. A short time after, while the protesters remained, destruction continued, and police used tear gas against the protesters who still did not resist. Admittedly, this was not just any park, it was one of the city&#8217;s few remaining public parks, and also a place where many homeless people regularly found shelter in the park. After another few days of protests, police started to increase the methods, including more tear gas, water cannons, and plastic bullets. At this point, protests started to skyrocket. Thousands began to gather in Taksim Square, next to the park, protesting. Protests even began to spread throughout the country, resulting in many protests and The impetus for the protests was largely police brutality, but the protests have turned into something more. It is hard to find a unifying thread between the protesters. They have different religious views, different political ideologies, different party identifications. The key is a sense of grievance towards the Prime Minister, Tayyip Erdogan.
+
+The biggest problem that many Turks have with Erdogan is his overbearing nature. While far from a Mubarak/Qaddafi/Ben Ali-type dictator, Erdogan has been shifting towards a more authoritarian style of rule as of late, and this has been very disconcerting to many Turks, and after the police brutality, they were finally given an opportunity to express their gripes. Officially, Erdogan&#8217;s Justice and Development Party is secular, though often mischaracterized as Islamist. As such, many Turks have supported the party for its relatively moderate stances in Turkey. However, Erdogan lives up to the misconception of the party, and has begun to push many more Islamist-influenced policies, including alcohol restrictions. Others are also enraged over the Syrian situation, where Erdogan has continually supported the rebels, and has taken in countless refugees from Syria. In the end, the protests demonstrate one thing: Erdogan&#8217;s time may be numbered. While the protesters do not seem to particularly support one alternative or another, the anti-Erdogan rhetoric is strong enough that even if protests die down, it is unlikely he will be successful if he tries to run for president next year.
+
+Another interesting aspect of the protests are that they seem to cause a seemingly inconsistent party line. On the one hand, Abdullah Gul, current President of Turkey, Erdogan&#8217;s predecessor and also a member of the Justice and Development Party, has actually praised the protesters. Gul believes that protesters are simply expressing their democratic rights and supports them for that. While some of this may be partially inspired by the probably show-down between Gul and Erdogan in next year&#8217;s presidential election, it also indicates a sort of inconsistency in policy aims between the two leaders. Additionally, Bulent Arinc, Erdogan&#8217;s deputy, apologized on behalf of Erdogan for the police brutality, however many doubt whether or not he was actually speaking on behalf of Erdogan or simply himself. Erdogan, on the other hand, is currently in Morocco and has remained silent on the issue, but for obvious reasons opposes the protests.
+
+The protests demonstrate not only a decreasing amount of unity within the government and the party, but also demonstrate a sharp decline in Erdogan&#8217;s popularity. Erdogan&#8217;s time in power seems very limited, however what happens after he leaves seems up in the air. Clearly, a more secular-influenced government is needed, but as for Turkey&#8217;s relations with Syria and the West, nothing is clear. But for now, it is time to ready our goodbyes to Mr. Erdogan.

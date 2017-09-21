@@ -1,0 +1,19 @@
+---
+id: 1741
+title: Hitting Iran Where It Hurts
+date: 2012-03-31T21:06:37+00:00
+author: mjdudak
+layout: post
+guid: http://rantaweek.com/?p=1741
+permalink: /?p=1741
+categories:
+  - International
+tags:
+  - Iran
+  - Middle East
+---
+While relations with Iran have been going [increasingly](http://rantaweek.com/the-increasingly-confusing-situation-in-iran-part-1-febuary-6th-2012/ "The Increasingly Confusing Situation in Iran (Part 1) – Febuary 6, 2012") [downhill](http://rantaweek.com/the-increasingly-confusing-situation-in-iran-part-2-feb-9-2012/ "The Increasingly Confusing Situation in Iran (Part 2)- Feb 9, 2012"), things just took a big step recently. Yesterday, Obama announced that he believed that there is enough oil in world markets for many countries to drastically reduce oil imports from Iran. Major countries who are expected to do so are the US, Britain, Japan and the EU members. However, the interesting aspect of this move is that if needed, much of the oil may come from strategic oil reserves. These reserves are in place so that they may be tapped in any situation where oil prices are too high and the amount in the world markets is too low. The last time that the US tapped our reserves was in June of 2011, to counter the loss of oil production in Libya. In that situation, the amount of oil in the world markets was dipping low because the crisis was directly causing the amount of oil in world markets to drop. Yet in this case, the US and other nations are causing the amount of oil to drop. It is still a crisis, and a reaction to one, but the drop in oil will actually occur because of a decision we make.
+
+But it is also important to note that shoring up the reserves is not the only move these nations have made. They have also asked countries, primarily Saudi Arabia, to increase production to compensate for decreased Iranian exports. The only problem with this move is that many countries have not done so in the past when asked. With the Libya crisis, the US practically begged OPEC (a group of large oil producers, including Saudi Arabia) to step up their production. But this time seems different. Saudi officials seemed willing and eager to comply with the US, but many remain skeptical. Given a lack of Saudi support the last time the US asked, the skeptics have valid doubts. If Saudi officials were not to follow through on their support, the US effort would be devastated. The US would be forced to tap reserves, which only last so long. Moreover, the US would be driven to expedite relations and in doing so may fail. By no means are the Saudis untrustworthy, but with dependence upon them, there is a chance that they may well try to have some influence in negotiations.
+
+This move by the US and other nations is extremely risky. Without Saudi support and support from other large oil producers, the embargo could collapse. But with this high risk comes great reward. With the petroleum industry making up just under 20% of Iran&#8217;s economy, coupled with it providing the primary economic engine for Iran, an oil embargo is the best possible way to hit Iran&#8217;s economy. Oil is to Iran as cars are to Detroit. Everything revolves around oil. So while the US may have to stop the embargo quickly if oil producing nations are hesitant, there is a very good chance that the embargo will hit hard enough to make Iran give in quickly.  The hope is that these sanctions will force Iran to give up its nuclear program without bloodshed.  As of now, Iran does not seem scared. But if the US gets her way, Iran will be bowing at her feet within a short time after the embargo starts.

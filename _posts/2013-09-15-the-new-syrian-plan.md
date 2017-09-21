@@ -1,0 +1,22 @@
+---
+id: 5344
+title: The New Syrian Plan
+date: 2013-09-15T20:19:39+00:00
+author: Tyler Miksanek
+layout: post
+guid: http://rantaweek.com/?p=5344
+permalink: /?p=5344
+pdrp_attributionLocation:
+  - caption
+categories:
+  - International
+---
+The last couple months have seen a whirlwind of news stories concerning Syria, the Middle Eastern nation in the midst of a bloody civil war that has already killed over 100,000 according to U.N. estimates.  The impetus for this increased importance was the United States accusing Syrian President Bashar al-Assad of deploying chemical weapons against civilians, an abominable war crime.  The United States, along with a cohort of other Western nations, [seemed ready to launch a military strike against Assad](http://rantaweek.com/chemical-weapons-in-syria-a-potential-turning-point/ "Chemical Weapons in Syria – A Potential Turning Point").  However, international support started to dry up when the British Parliament refused to approve British military involvement and Russia, a supporter of Assad and a critic of Western involvement in the Middle East, started to increase its rhetoric against international action.
+
+Even with dwindling international support, President Barack Obama asked Congress to approve a military strike.  But when U.S. Secretary of State John Kerry said offhand that the only way the Obama administration would reconsider its position was if Assad handed over his supply of chemical weapons, Russia sensed an opportunity.  Still against any Western intervention, Russian President Vladimir Putin orchestrated a deal where Assad would give up his supply of chemical weapons in exchange for the U.S. to agree to withhold the use of military force.  Suddenly, possible violence turned into diplomacy, and it appears that all sides so far are happy with the arrangement.
+
+But the real question remains to be answered, what does this mean going forward?  For the United States, the fact that Russia was able to engineer a diplomatic solution and prevent a likely American military strike is a little bit of an embarrassment.  Conversely, Russia gets to walk away from the deal knowing it was able to successfully assert its foreign policy, making it seem stronger on the international stage.  But while the Syrian plan was an interesting show of Russia&#8217;s power and perhaps a small diplomatic retreat by the United States, this one data point hardly provides convincing evidence that America&#8217;s power on the world stage is diminishing.  A more simple explanation is that America, having learned its lessons from its unilateral intervention in Iraq, is more willing to accept diplomacy in 2013 than it was a decade ago.  And even if [American exceptionalism is on its way out](http://rantaweek.com/exceptionally-ridiculous-part-1/ "Exceptionally Ridiculous – Part 1"), the original goal of military intervention in Syria was to prevent Assad from using chemical weapons again, and this compromise with Russia aims to do that without violence.  America&#8217;s actions can be construed as weak, but they can also be interpreted as using better means to reach the same end.
+
+It is important to point out that the &#8216;better means to reach the same end&#8217; hypothesis depends on Assad actually giving up all of his chemical weapons.  The only time crunch Assad faces right now is to submit an inventory of his weapons; they don&#8217;t have to be handed over until the middle of next year.  Of course, the agreement does allow the UN Security Council to vote on military action against Syria if Assad fails to fully comply.  But questions are still present even with this stipulation in place.  What happens if Assad only appears to relinquish all his weapons but actually keeps some hidden? What happens if the U.S. tries to bring up a later vote in the Security Council that is vetoed by Russia?
+
+Clearly, the civil war in Syria, and the international diplomatic conundrum it presents, are far from being solved.  However, the move to rid Assad of chemical weapons without resorting to violence is a victory for diplomats around the world.  America was wise to accept what may be perceived as weakness now for what is hopefully a better international environment in the future.

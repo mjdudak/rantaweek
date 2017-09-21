@@ -1,0 +1,18 @@
+---
+id: 53
+title: The Pursuit of Rome
+date: 2011-10-17T21:31:24+00:00
+author: Tyler Miksanek
+layout: post
+guid: http://rantaweek.com/?p=53
+permalink: /?p=53
+categories:
+  - Miscellaneous
+tags:
+  - economy
+---
+Powerful nations today often look back at the success of Rome as a pathway for their own dominance in the world.  RantAWeek draws some parallels.
+
+Rome’s greatness lasted for centuries, a reason why so many are still in awe of its perseverance.  However, things seem to move much faster in the modern world, and empires both grow and shrink at a faster rate than they could two thousand years ago.  After all, the United States has only been a global power for the past hundred years or so.  Germany has only been reunited for two decades, and as recently as ten years ago its economy was a wreck when compared to today.  The BRICS have all risen to greatness in the past few decades.  It is just as hard to predict what the year 2500 will hold to modern empires as it was for the early Romans to predict what would become of their goals.  Still, while it can be comforting to look to the Romans on how an empire should be created and maintained, some parallels can not be drawn.  For example, the Romans had to fight to spread the borders of their empire.  Today, the size of one’s influence is not measured by the land area of one’s nation.  Spain is larger than Germany, but Germany is faring much better economically.  Infrastructure is still important, but since technology has improved greatly, a complex road or water system is not the same achievement today as it was two thousand years ago.  Perhaps an interesting connection can be found with great buildings like the Coliseum to today’s skyscrapers.  Looking at such skylines as Shanghai, New York and Mumbai, one can tell that they are important places on the world stage.  Diverse places such as these three show the diversity of empires today.  Just as Rome functioned as both the Roman Republic and the Roman Empire, great nations today work both as democracies and, in the case of China, communist regimes.  Interestingly enough, Rome was able to connect vastly different cultures in new ways, similar to the Internet today.  Looking at the internet, we can tell that technologies have changed, and the Roman legion has fallen to the nuclear bomb.  Still, the mention of Rome creates the image of a spectacular empire, and its influence is still around today.  For this reason, modern leaders attempt to recapture the glory of Rome.
+
+But even Rome, eventually, had to fall, and world leaders also have to recognize this.  The ‘barbarians’ that finally did the job don’t have an exact parallel in our modern world.  However, it is important to understand that, like it was for Rome, overextension can lead to ultimate ruin.  Expansion is only a good thing when executed in the correct manner.  For all of Rome’s abilities to conquer, the city itself ended up as a target for other conquering groups.  It is also important to know that many wealthy Romans made deals with the invaders to protect their property and wealth.  For this reason, it is crucial to make success lie within one’s own nation, and not with others.  But just as Roman culture and ideas live on today, all nations, in some way or another, influence each other, and it is important to make sure that we all work together in harmony, and not in discord.  Rome accomplished greatness, but through incorporating people into the empire, not simply by subjugating them to central authority.  Even in today’s globalized world, modern day versions of empires still exist, and they can learn from the best of their breed.

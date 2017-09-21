@@ -1,0 +1,22 @@
+---
+id: 1871
+title: Letting Loose a Pressure Valve in Iran
+date: 2012-04-16T19:54:50+00:00
+author: mjdudak
+layout: post
+guid: http://rantaweek.com/?p=1871
+permalink: /?p=1871
+categories:
+  - International
+tags:
+  - Iran
+---
+After all the recent events in Iran, many see their downfall and the collapse of their nuclear programme as inevitable. After over 15 months of refusing to even start negotiations with the countries pressuring it to stop the nuclear programme, Iran seemed as if nothing could stop them. Then, the international pressures escalated, and the various powers started to [hit Iran in the sweet spot](http://rantaweek.com/hitting-iran-where-it-hurts-march-31-2012/ "Hitting Iran Where It Hurts- March 31, 2012"): oil. Clearly, these efforts have been very successful as recently, Iran agreed to reopen the negotiating table, and met with six world powers (Russia, the US, China, France, Britain and Germany). Though there were no tangible outcomes of these talks, the talks were described as a huge leap forward. Not only did Iran open up, but they also agreed to meet again. Because of the agreement to meet again, most major, tangible decisions were postponed until then. Conversely, tensions may actually heat up because of the increased pressure to reach an agreement.
+
+At this point in time, the US and her allies are moving to stop Iran from continually enriching Uranium. Most countries have no problem with Iran having Uranium for purely peaceful energy purposes. Yet, Iran has been enriching this Uranium to make it bomb-grade. They are only a few steps away from reaching this point, one which could spell catastrophe. Therefore the next round of negotiations, scheduled for May 23rd, will be the most important yet. The western world needs to convince Iran that nuclear energy is enough; Iran should have no reason to want nuclear weapons. At this point in time, however, it all appears up in the air.
+
+There is no doubt Iran wants nuclear weapons, so the Western world will have to convince Iran that nuclear energy coupled with loosened sanctions is a fair exchange for Iran stopping its nuclear programme. However, Iran is putting down a fairly large bargaining chip: threat of attack. The likelihood of Iran attacking the US, Britain, France, Germany or any other western country is fairly slim, as these nations all have such strong militaries that Iran would never stand a chance. Instead, the most likely point of attack for Iran would be Israel, probably the strip of land that the western world is most proud of. If Iran should attack Israel, the entire western world would be at its back immediately. The western world is so fearful of Iran attacking Israel, that they may be willing to give up more to Iran than just loosened sanctions and nuclear energy. What else the western world has to give is not exactly clear, but they better come up with another bargaining chip, and soon.
+
+While it is clear that these planned negotiations are a step in the right direction, and they prove that sanctions and embargoes work, this next month will also be the most tense yet. Not only is there the risk of one slip causing negotiations to collapse, there is still the risk of Israel attacking proactively, and the US having to be at its side. Furthermore, with these negotiations laid out, both sides will face loads of pressure from the outside world. Supporters of Iran will be pressuring the western world to give up a bit more, while Iran&#8217;s opponents will pressure it to give in more easily. With this increased pressure comes increased resistance. Each side will want to prove that it can give up as little as possible. But in the end, each side will find that it must give up more than it would like.
+
+Ultimately, these negotiations are an improvement. The pressure will increase, but cooler heads will hopefully prevail. Both sides need to realize that although they may give up more than they care to, ultimately maintaining order within the region is far more important than an individual group&#8217;s needs and wants. We can only look on and hope that the leaders at the negotiating table will set their priorities straight and avoid any escalation of conflict.

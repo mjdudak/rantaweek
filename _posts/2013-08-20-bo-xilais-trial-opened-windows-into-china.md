@@ -1,0 +1,26 @@
+---
+id: 5303
+title: 'Bo Xilai&#8217;s Trial: Opened Windows Into China'
+date: 2013-08-20T00:54:43+00:00
+author: mjdudak
+layout: post
+guid: http://rantaweek.com/?p=5303
+permalink: /?p=5303
+pdrp_attributionLocation:
+  - caption
+categories:
+  - International
+tags:
+  - bo xilai
+  - China
+  - communist party
+---
+In the United States, we tend to think that party politics run the government. While a bit true, the real masterminds behind the parties (RNC Chairman Reince Priebus and DNC Chairwoman Debbie Wasserman Shultz) are often behind the scenes. And with names like those, it is no surprise they stay veiled. Yet in China, party politics truly do run everything as the Communist Party and the Chinese government are not two separate entities. Between the end of 2012 and the beginning of 2013, China experienced its rare transition of power, as the President changed from Hu Jintao to Xi Jinping and the Premier changed from Wen Jiabao to Li Keqiang. In addition, seven of the nine members of the Politburo Standing Committee, the key decision-making entity in the Chinese Communist Party were replaced. This staged transition, which only occurs once every decade, was undermined by a scandal that rocked the party.
+
+The scandal began in November 2011, when Neil Heywood, a British expatriate was found dead in his hotel room. In February 2012, Wang Lijun, a former police chief in the region where Heywood was found dead came forward, claiming that Heywood was murdered. After further investigation, the murder was pinned on Bo Gu Kailai, wife of rising Communist Party start Bo Xilai. Soon after, for unrelated reasons (which will be discussed later), Bo was sacked from one after another of his political posts until he was finally kicked out of the Communist Party altogether. Now, Bo is awaiting a trial for corruption, embezzlement and abuse of power. The trial has been scheduled for Thursday, and is really largely a ceremonious event. In reality, the shear indictment of Bo means that he will be convicted as the Communist Party leaders have likely already made up their mind about the case. Bo&#8217;s case will likely simply join the other 98% of trials which turn into convictions in China. However, while speculating about the trial is pointless, and thus cannot be made sport, like it often is with US trials, the implications of the trial are important to understand. From our liberal, Western perspective, the trial seems to represent one step forward and one step backward.
+
+First, the step backward. The trial reveals to the world just how tightly controlled everything is in China by the Party. Technically, China has an independent judiciary, but in reality, the judiciary is simply an extension of the Party. The likely conviction demonstrates the breadth of political repression in China. The sacking of Bo demonstrates the lack of room for dissenters within the Party. The list goes on. But in all, Bo&#8217;s case truly represents the human rights side of China has continued to remain the same, and has barely liberalized at all.
+
+Yet if you cannot change the system, it is a step forward to see the new policies the system seems to be adopting. In order to understand why Bo was sacked, it is imperative to understand his views and his past. The single most influential factor on Bo is his father- Bo Yibo- a key figure in Chinese politics throughout the 80s and 90s, referred to as one of the Eight Elders who greatly shaped modern-day China. This meant that Bo Xilai&#8217;s rise to power was largely due to his association with his father, and his status as a &#8220;princeling&#8221; of Chinese politics. However, with this, Bo Xilai felt a level of commitment to old traditions, and for this reason was a strong supporter of Maoism and &#8220;red culture.&#8221; However these extreme Maoist views are largely outdated, and the modern-day Communist Party has moved passed these. President Xi Jinping, Premier Li Keqiang and previous Premier Wen Jiabao are all liberal reformers within the Party. Their views of primarily economic liberalization (not to the point of capitalism, but to at least allow further economic growth) have become dominant within the party, so naturally when Bo actively opposed these views, he was sacked. While the reason for his sacking, as previously discussed, represents a kind of human rights stagnation, the Party&#8217;s incentive is demonstrative of something that the citizens of China and the West can look fondly upon. Even though China continues to work within the same repressive system as always, at least their economy is beginning to open up and liberalize. The hope is that eventually, a liberal economy naturally brings a liberal political system.
+
+In the end, Bo&#8217; s case is nothing too extraordinary, however, the attention it has received allows it to act as a rare window into the devices at play in China. This case allows us to realize that while China continues to remain as oppressive as ever, and thus has stagnated in this arena, by economic liberalization becoming a prominent policy in China, there is hope that China will continue to make progress economically and this could lead to further cultural and social progress in the future. The fate of Bo has been sealed, but the fate of the Chinese system has not.

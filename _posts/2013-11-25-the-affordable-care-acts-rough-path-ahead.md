@@ -1,0 +1,22 @@
+---
+id: 5579
+title: 'The Affordable Care Act&#8217;s Rough Path Ahead'
+date: 2013-11-25T19:23:27+00:00
+author: Tyler Miksanek
+layout: post
+guid: http://rantaweek.com/?p=5579
+permalink: /?p=5579
+pdrp_attributionLocation:
+  - caption
+categories:
+  - Domestic
+---
+Americans spend more than most other nations on healthcare.  In fact, a remarkable 18% of our GDP goes to healthcare expenditures.  But at the same time, we seem to be paying more and receiving less in return.  Compared to other highly developed nations such as France, Japan, Canada and the UK, America has a shorter life expectancy and a higher rate of infant mortality.  President Obama&#8217;s Affordable Care Act, popularly (and oftentimes derisively) nicknamed Obamacare, started out with the goal of expanding access to quality healthcare while lowering the out of pocket costs.  Unfortunately, the goals may have been noble, but the implementation has been deeply flawed.
+
+First, disappointing registration numbers handicap the act&#8217;s effectiveness.  The healthcare.gov website where people could register for the new federal healthcare exchanges has been plagued with technical difficulties.  Frustrated and often unable to use the website, many of those who were interested in signing up ultimately failed to do so.  The result: less than 27,000 people signed up in the first month.  The government was expecting millions of people to sign up in the website&#8217;s first year of operations, meaning that the actual numbers are a huge letdown.  Worse, all the bad press the website is getting is likely to persuade many of the 50 million uninsured Americans to avoid taking full advantage of the benefits Obamacare can give them.
+
+Even the 27,000 who did sign up may not be in the clear.  Worries have been surfacing lately that the people who do sign up for the exchanges will be the most unhealthy patients, and thus the most expensive to insure.  The underlying problem is a phenomenon known as adverse selection, where people are driven away from insurance because of the high price unless they have drastic enough medical concerns to be willing to pay.  Of course, if only very expensive to insure patients enroll, the price will have to increase even more, and the process will continue.  The whole purpose of insurance is to minimize individual risk by spreading costs among a larger pool of people.  However, the small pool of potentially very expensive people signing up for these new exchanges, in addition to insurers being forced to cover preexisting conditions, toy with the usual calculations of insurance risks and will likely increase prices.
+
+Focusing on these setbacks makes the blame appear to sit entirely in the hands of President Obama and the Democrats, but this is simply not true.  Many governors, mostly Republican, have turned down the Medicaid expansion that the federal government offered to the states.  Funded almost entirely by the federal government, the expansion was designed to help low income Americans who currently are without health insurance obtain medical coverage.  The governors of the 25 states who rejected the expansion cited their opposition to Obamacare in general as well as the added costs to the states when declining the expansion.  However, the minimal costs states would have to pay would be dwarfed by the savings to the overall system, which now has to pay for emergency procedures administered to uninsured and low income individuals who can not pay for their operations.  Worse, denying the Medicaid expansion puts hundreds of thousands of families in the position of not qualifying for Medicaid but not having the money to pay for insurance through the new exchanges, allowing them to fall through the cracks by choosing to not implement a low cost solution.
+
+These problems and more need to be worked out before the Affordable Care Act can be deemed successful.  Political differences and petty ideological concerns need to be swept aside for the health and economic security of Americans as a whole.  There are problems enough without political pandering making things worse.  Ultimately, the Affordable Care Act still has the capacity to do the nation&#8217;s health system a world of good, but the programs it creates, public sentiments and actions of politicians must all align to salvage the situation.

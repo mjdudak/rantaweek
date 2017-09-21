@@ -1,0 +1,24 @@
+---
+id: 2305
+title: 'The Export Buffer: Why the Chinese and Indian Economies Have Slowed'
+date: 2012-06-26T23:41:28+00:00
+author: mjdudak
+layout: post
+guid: http://rantaweek.com/?p=2305
+permalink: /?p=2305
+categories:
+  - Economy
+  - International
+tags:
+  - China
+  - economy
+  - growth
+  - India
+---
+In the past few months, the inevitable happened. After the economies of China and India had mostly survived the recession, new numbers came out and both economies have slowed down. Considered to be the two largest developing economies, China and India were expected to be the two big economic engines to pull us out of the worldwide economic slump. However now it is clear that with Chinese growth in the first quarter of this year down and Indian growth over the past year down, things are not looking up for these two developing countries. So why has this economic downturn took so long to hit India and China?
+
+It is my thesis that this delay is caused primarily by a sort of &#8220;export buffer.&#8221; China is the world&#8217;s largest exporter of goods, and India is arguably the largest exporter of services. China&#8217;s economy is entirely dependent on exporting cheap goods. Because of cheap, readily available labor, China is able to produce goods cheaper and quicker than anyone else. What this means is that when the world took an economic downturn, we still needed to buy our goods somewhere. And because they were cheaper, though lower quality, in China, the world bought more goods from China. In turn, China solidified a position as an economic player and as he world&#8217;s largest exporter of goods. This allowed China to continue to grow and create more and more goods. However, now China has reached a saturation point. Enough of the goods that we all have come from China, and the amount of goods we are buying has remained fairly steady. In fact, as many people are suffering from &#8220;recession fatigue&#8221; we have habitually become more frugal. This means that Chinese growth is starting to slow because most of our purchasing is already transferred to China.
+
+The same idea can be applied to India, except mainly with services. Despite the fact that most of the work force is in agriculture, the primary economic mover is in services. And many of these services are exported. One of the primary service industries in India is the information technology services industry. Making up much of our customer support these days, India has capitalized on the large educated, English-speaking population. But again, a saturation point has been reached. We have already outsourced many of our information technology services, leaving little more that can be outsourced. This has left India with a slowed economic growth and arguably its biggest economic problem: poverty. In the past decade, many people have been able to move out of poverty and find work in services, therein stimulating the economy. But with an unemployment rate near 10% and and over 20% of the population below the poverty line, India has run out of international sources of economic stimulation and has a population which cannot afford to provide a domestic boost. And with rampant government corruption interfering with getting aid to the destitute, it does not appear as if more people will come out of poverty anytime soon. This leaves Indian growth slowing, with no international help and no domestic help.
+
+India and China clearly demonstrate the validity of this &#8220;export buffer.&#8221; Economic catastrophe has a delayed reach to countries which can cheaply export goods and services. So while India and China long looked as if they would be the drivers to get the rest of the world out of its economic doldrums, alas it is clear that the recession has hit them at long last. To be clear though, China and India are still growing at a very fast rate, but it seems as if this growth will slow. With the situation in the Eurozone g[etting worse and worse](http://rantaweek.com/bump-in-road-eu-debt-issues/ "A Bump in the Road") and our own [domestic situation worsening](http://rantaweek.com/may-unemployment-numbers-an-abysmal-outlook-june-6-2012/ "May Unemployment Numbers: An Abysmal Outlook"), the decline of growth in China and India is potentially detrimental to the world economy as a whole. At the advent of the recession, many predicted that with it, China and India would indisputably come out on top, and a new world economic order would be established. While this certainly still can happen, China and India will need to get their acts together in order to carry through. They both need to find a way to establish their domestic markets as economic drivers and both need to work out the issue of rampant poverty. If they can do so, and become planted as not just economies which can grow, but ones that can remain stable, then they will come out on top.
